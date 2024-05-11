@@ -1,3 +1,3 @@
-module GO_TIMELINE_HTTP
+module go_timeline_http
 
 go 1.17

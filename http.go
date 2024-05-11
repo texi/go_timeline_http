@@ -1,4 +1,4 @@
-package GO_TIMELINE_HTTP
+package go_timeline_http
 
 import (
     "net/http"
