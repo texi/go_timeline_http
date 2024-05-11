@@ -1,0 +1,3 @@
+module GO_TIMELINE_HTTP
+
+go 1.17
